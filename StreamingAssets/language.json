@@ -1,0 +1,107 @@
+{
+    "_meta": {
+        "maxChars": {
+            "welcome": 20,
+            "readyToPlay": 20,
+            "pressContinue": 50,
+            "greatJob": 20,
+            "onePlusOne": 30,
+            "story1": 200
+        }
+    },
+    "en": {
+        "welcome": "How To Play.",
+        "levelText1": "The position of a digit in the number is known as the place.",
+        "levelText2": "To round to any place, you need to know what place your rounding to.",
+        "levelText3": "Find the place value (the 'rounding digit') and look at the digit just to the right of it.",
+        "levelText4": "If that digit is less than 5, do not change the rounding digit but drop all digits to the right of it. 62 becomes 60",
+        "levelText5": "If that digit is greater than or equal to 5, you increase the value of the digit you're rounding to by one (+1). 68 becomes 70. Since the place value is tens.",
+        "levelText6": "If you have only 25 to buy items for this shop.",
+        "levelText7": "And you need to add together the price of the items you choose, to make sure the money is enough. We use Estimation.",
+        "levelText8": "Rounding is a way to estimate. Rounding is grounded in a procedure.",
+        "levelText9": "Estimating is grounded in understanding. For example, 0.24 rounds to 0.2 but is more useful when estimated to 0.25",
+        "levelText10": "Rounding decimals is useful for estimating calculations with decimals or for approximating solutions.",
+        "game3": "Hit the box that correctly rounds to the nearest hundreth.",
+        "quest_2_1": "14.755",
+        "pop": "Congrats, you found.",
+        "next": "",
+        "quest_1_2": "15.4",
+        "quest_3_1": "15.466",
+        "greatJob": "Great job!",
+        "quest_3_3": "222.326",
+        "quest1": "14.3",
+        "start3": "Fill In the boxes with the correct prices that round to the nearest thousandth.",
+        "example2": "rounded to the nearest tenth is",
+        "howToPlay": "This game is very easy to play. You're first introduced to a car game, where you dodge obstacles and hit the right boxes. Then a fill in the box type of practise game is introduced, followed by a drag and drop game. Good Luck!",
+        "answer1": "10",
+        "quest_1_4": "37.8",
+        "quest_2_4": "1349.166",
+        "answer2": "121.5",
+        "story5": "I think I left them at the shop. Let's drive to the shop, I will teach you how to round to any place along the way.",
+        "story4": "Thank you for making out time to visit my shops. I reckon you learned a lot too. Well, this is where we part. See you next time.",
+        "continue": "Continue",
+        "quest_3_2": "951.323",
+        "game2": "Hit the box that correctly rounds to the nearest tenth.",
+        "autoSave": "...Auto Saving Complete",
+        "example1": "rounded to the nearest tens is",
+        "start2": "Fill In the boxes with the correct prices that round to the nearest whole number.",
+        "quest3": "15.466",
+        "quest_2_3": "121.499",
+        "game1": "Hit the box that correctly rounds to the nearest tens.",
+        "quest_1_1": "14.3",
+        "answer3": "15.47",
+        "equal": "Rounds To",
+        "story1": "Hi, I need your help. I can't find my pets anywhere.",
+        "quest_3_4": "62.198",
+        "story3": "There is only one pet left. Lets check the last shop i think we can find it there.",
+        "quest_2_2": "15.323",
+        "pantry": "Pantry",
+        "quest2": "121.499",
+        "gameover": "Try again. Click the 'help' button for assistance.",
+        "quest_1_3": "17.3",
+        "example3": "rounded to the nearest Hundreth is",
+        "story2": "You're really good at this. I knew you were the right person for this. Let's check the next shop too.",
+        "numberline": "Drag and Place the coin where it should appear in the numberline.",
+        "purchasePan": "Purchase Pan  <color=#F9DD3B>{0}</color>",
+        "start1": "Fill In the boxes with the correct prices that round to the nearest tens",
+        "guide1": "134.9 rounded to nearest tens is 130 as the next digit (4) is less than 5",
+        "guide2": "1.2735 rounded to nearest tenths is 1.3 as the next digit (7) is 5 or more",
+        "guide3": "3.1416 rounded to nearest hundredths is 3.14 as the next digit (1) is less than 5",
+        "guide4": "15.239 rounded to nearest whole number is 15 as the next digit (2) is less than 5",
+        "faq1": "Round to the nearest Tens",
+        "faq2": "Round to the nearest Whole Number",
+        "faq3": "Round to the nearest thousandth"
+
+
+    },
+    "es": {
+        "welcome": "¡Bienvenido!",
+        "readyToPlay": "¿Estás listo para jugar?",
+        "greatJob": "¡Gran trabajo!",
+        "pressContinue": "Presione el botón 'siguiente' para continuar.",
+        "onePlusOne": "Uno + Uno = Dos"
+    },
+    "zh": {
+        "welcome": "欢迎！",
+        "readyToPlay": "你准备好玩吗",
+        "greatJob": "做得好！",
+        "pressContinue": "按“下一步”按钮继续。",
+        "onePlusOne": "一+一=二"
+    },
+    "jp": {
+        "welcome": "ようこそ!",
+        "readyToPlay": "あなたは遊ぶ準備ができていますか？",
+        "greatJob": "よくやった！",
+        "pressContinue": "続行するには '次へ'ボタンを押してください。",
+        "onePlusOne": "1 + 1 = 2"
+    },
+    "ru": {
+        "welcome": "Добро пожаловать!",
+        "readyToPlay": "Вы готовы играть?",
+        "greatJob": "Отличная работа!",
+        "pressContinue": "Нажмите следующую кнопку, чтобы продолжить.",
+        "onePlusOne": "один + один"
+    }
+}
+
+
